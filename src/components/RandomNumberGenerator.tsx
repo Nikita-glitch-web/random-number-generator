@@ -77,7 +77,7 @@ const RandomNumberGenerator: React.FC = () => {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Генератор випадкових чисел
+            Генератор рандомних чисел
           </Typography>
           <IconButton
             color="inherit"
